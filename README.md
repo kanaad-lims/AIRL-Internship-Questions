@@ -1,7 +1,7 @@
 # AIRL-Internship-Coding-Assignment
 
 
-# Vision Transformer (ViT) for CIFAR-10 Classification
+# Q1. Vision Transformer (ViT) for CIFAR-10 Classification
 A PyTorch implementation of Vision Transformer for image classification on the CIFAR-10 dataset.
 
 ## How to Run in Google Colab
